@@ -59,4 +59,4 @@ Followed by Global Average Pooling and a Dense output layer with softmax activat
 
 ## Files
 
-- `ITEC327_Task1.ipynb` — Full notebook including data preparation, model definition, training, and evaluation
+- `Garbage_Classification_CNN.ipynb` — Full notebook including data preparation, model definition, training, and evaluation
