@@ -6,8 +6,8 @@ A convolutional neural network (CNN) built to classify images of garbage into ma
 
 | Model | Validation F1 Score |
 |---|---|
-| Baseline CNN | 0.873 |
-| Improved CNN | **0.914** |
+| Baseline CNN | 0.8730 |
+| Improved CNN | **0.9139** |
 
 ## Problem
 
