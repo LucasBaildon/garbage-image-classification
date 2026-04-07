@@ -27,7 +27,7 @@ Extended the baseline augmentation with additional parameters to improve general
 - Horizontal and vertical flipping
 
 ### Model Architecture
-A sequential CNN with three convolutional blocks, each containing:
+A sequential CNN with five convolutional blocks, each containing:
 - Conv2D layer with L2 regularisation
 - Batch Normalisation
 - ReLU Activation
