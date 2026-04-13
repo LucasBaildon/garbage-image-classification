@@ -1,0 +1,23 @@
+# Dataset directories — generated at runtime, not tracked
+garbage_classification/
+new_images/
+
+# Saved model weights
+*.keras
+*.h5
+
+# Saved plot outputs
+*.jpg
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Kaggle API credentials — never commit these
+kaggle.json
+.kaggle/
